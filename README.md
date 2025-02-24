@@ -10,4 +10,4 @@ This Landing Page is built using:
 
 Replace `<valentin19939>`
     - [Landing LINK](https://valentin19939.github.io/Valentyn-Landing-Page/)
-    - [Figma LINK](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version)
+    
