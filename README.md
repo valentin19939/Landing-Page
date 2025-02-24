@@ -9,6 +9,6 @@ This Landing Page is built using:
 ✅ Stylelint + BEMlint for code standardization.
 
 Replace `<valentin19939>`
-    - [Landing LINK](https://valentin19939.github.io/Valentyn-Landing-Page/)
+    - [Landing LINK](https://valentinwdev.github.io/Valentyn-Landing-Page/)
     - [Figma LINK](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version)
     
